@@ -415,6 +415,14 @@ fill: #AFB1B8;
 }
     
 /*  6  кінець головної  */
+
+.container.footer {
+display: flex;
+align-items: flex-start;
+gap: 120px;
+}
+
+
 .page-footer {
 padding-top: 100px;
 padding-bottom: 100px;
@@ -441,6 +449,47 @@ color: var(--color-page);
 
 .future-title{
 max-width: 264px;
+}
+
+.social-word {
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+color: var(--color-inverted);
+margin-top: 0px;
+}
+
+
+.box-media {
+padding-top: 16px;
+padding-left: 0px;
+list-style: none;
+display: flex;
+gap: 16px;
+justify-content: center;
+}
+
+.social-media {
+width: 40px;
+height: 40px;
+}
+
+.imag-media {
+width: 24px;
+height: 24px;
+fill: var(--color-team);
+}
+
+.link-media {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+height: 100%;
+background-color: rgba(255, 255, 255, 0.1);
+border-radius: 50%;
 }
 
 /*  Portfolio початок   */
