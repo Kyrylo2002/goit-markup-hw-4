@@ -442,7 +442,7 @@ letter-spacing: 0.03em;
 }
 
 .footer-slogan {
-margin-top: 16px;
+margin-top: 17.5px;
 margin-bottom: 0px;
 color: var(--color-page);
 }
@@ -522,6 +522,10 @@ letter-spacing: 0.02em;
 color: var(--color-primary);
 text-decoration: none;
 list-style: none;  
+}
+
+.site-nav:hover {
+color: var(--color-hover);
 }
 
 .portfolio-main {
