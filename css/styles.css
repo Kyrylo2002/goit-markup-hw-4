@@ -517,7 +517,7 @@ background-color: var(--color-social);
 
 /*  Portfolio початок   */
 .site-nav-portfolio {
-padding: 20px;
+padding: 24px 0;
 margin-bottom: 24px;
 font-family: 'Roboto',sans-serif;
 font-style: normal;
@@ -533,7 +533,7 @@ list-style: none;
 }
 
 .site-nav {
-padding: 20px;
+padding: 24px 0;
 margin-bottom: 24px;
 font-family: 'Roboto',sans-serif;
 font-style: normal;
