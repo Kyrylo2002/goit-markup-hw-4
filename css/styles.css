@@ -192,7 +192,6 @@ background-color: var(--color-hover);
 .section {
 padding-top: 120px;
 margin: 0;
-
 }
 
 .section-many-texst{
@@ -229,10 +228,10 @@ color: var(--color-secondary);
 
 .hero-uk {
 gap: 24px;
-    display: flex;
-    margin: 0;
-    padding: 0;
-    list-style: none;
+display: flex;
+margin: 0;
+padding: 0;
+list-style: none;
 }
 
 .studio {
@@ -262,8 +261,6 @@ gap: 24px;
 list-style: none;
 padding-left: 0px;
 }
-
-.
 
 .images-comp img {
 width: 100%;
